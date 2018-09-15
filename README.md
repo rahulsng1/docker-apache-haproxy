@@ -1,4 +1,4 @@
-# docker-apache-php
+# docker-apache-php-haproxy
 
 Simple Apache and PHP application with HAPROXY Setup in Docker
 

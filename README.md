@@ -1,6 +1,5 @@
-# docker-apache-php-haproxy
 
-Simple Apache and PHP application with HAPROXY Setup in Docker
+Apache and PHP with HAPROXY 
 
 USAGE: docker-compose up --build -d 
 
